@@ -22,11 +22,12 @@ Create a deliberately small static site that combines procedural WebGL scenery w
 The page structure consists of:
 
 1. **Hero chapter** — initial establishing view with large heading and navigation
-2. **Chapter I: The Gate** — garden gate with wall, pine, and grass foreground elements
-3. **Chapter II: Pathways** — garden cards with lantern court, moonwater, and approach scenes
-4. **Chapter III: Sacred Craft** — curriculum/lessons section with basalt stones and wall fragments
-5. **Chapter IV: Eternity** — afterlight closing with hill, shrine ruins, and horizon
-6. **Footer/Manifesto** — closing statement and navigation
+2. **Chapter I: The Gate** — garden gate with wall, pine, and grass foreground elements, the latest 5 videos.
+3. **Chapter II: Pathways** — garden cards with lantern court, moonwater, and approach scenes, the videos based on the month of year 2026, 
+4. **Chapter III: Sacred Craft** — curriculum/lessons section with basalt stones and wall fragments, album videos (long duration more than 20 minutes)
+5. **Chapter IV: Eternity** — afterlight closing with hill, shrine ruins, and horizon, the videos based on the month of year 2025
+6. **Chapter V: Year 2025** — Fall scene of US New York State,  closing with hill, shrine ruins, and horizon, the videos based on the month of year 2025
+7. **Footer/Manifesto** — closing statement and navigation
 
 ### Typographic Scale
 
