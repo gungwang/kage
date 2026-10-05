@@ -65,6 +65,3 @@ Other single-file experiments in the same vein — no build step, no framework, 
 - [**Sketchbook**](https://mengto.com) — a page-flipping sketchbook of Singapore: drag to turn the page, drag the magnifier across it. · [source](https://github.com/MengTo/sketchbook)
 - [**Agent Skills**](https://github.com/MengTo/Skills) — the reusable skill library these pages are built with, including the [falling leaves](https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/falling-leaves) and [pointer trail](https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/pointer-trail-emitter) techniques extracted from Kage.
 
-## License
-
-No license is currently granted for reuse or redistribution of the original Kage code or artwork. The third-party Three.js runtime remains covered by its included MIT license notice.

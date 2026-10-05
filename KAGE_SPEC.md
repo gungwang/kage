@@ -120,7 +120,3 @@ Any equivalent static server will work. The site uses relative paths and works u
 - Complete Shelf — Three.js library of seven interactive clothbound hardcovers
 - Sketchbook — page-flipping sketchbook of Singapore
 - Agent Skills — reusable skill library including falling leaves and pointer trail techniques
-
-## License
-
-No license is currently granted for reuse or redistribution of the original Kage code or artwork. The third-party Three.js runtime remains covered by its included MIT license notice.
